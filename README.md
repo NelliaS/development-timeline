@@ -1,6 +1,6 @@
 # Timeline of my learning progress
 
-<div>Hello! Welcome! :)  
+<div>Hello! Welcome! :)
 I made this timeline repository to show you (and myself) how far I've got on my journey with programming. In addition I am writing down all my sources, from which I've learnt, so beginners from Czechia could use this to obtain various useful links for them to learn (most sources are in Czech).</div>
 
 ## Files
@@ -67,13 +67,19 @@ All sources are free, if not said otherwise.
 ### Lessons from itnetwork.cz - PAID
 
 *   what: online materials and exercises on selected topics
-*   when I studied: April - May 2021, lection: [OOP in Python](https://www.itnetwork.cz/python/oop) , needed time: ~6<sup>+</sup>h (ongoing) _(last update 06.05.21)_
+*   when I studied: April - May 2021, lection: [OOP in Python](https://www.itnetwork.cz/python/oop) , needed time: ~12<sup>+</sup>h (ongoing) _(last update 12.05.21)_
 
 ### Team beginner Python course - coach
 
 *   what: checking homeworks of participants, provide hints, corrections, personal code consultation... as a proud part of PyLadies Brno community
 *   when I coached: April - May 2021
 *   link to homework page: [projekty.pyladies.cz](https://projekty.pyladies.cz/)
-*   spend time: ~50<sup>+</sup>h (ongoing) _(last update 06.05.21)_
+*   spend time: ~55<sup>+</sup>h
 
-<div>Total time spent: 321<sup>+</sup>h</div>
+### Working on own project - Picoballoon2021 web
+* what: webpage for [picoBalloon challenge](https://www.hvezdarna.cz/novinky/picoballoon-challenge-2021/)
+* when: May 2021
+* link: [github repository](https://github.com/NelliaS/Picoballoon2021)
+* spend time: ~6<sup>+</sup>h (ongoing) _(last update 12.05.21)_
+
+<div>Total time spent: 340<sup>+</sup>h</div>
