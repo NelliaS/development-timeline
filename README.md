@@ -74,7 +74,7 @@ All sources are free, if not said otherwise.
 *   what: checking homeworks of participants, provide hints, corrections, personal code consultation... as a proud part of PyLadies Brno community
 *   when I coached: April - May 2021
 *   link to homework page: [projekty.pyladies.cz](https://projekty.pyladies.cz/)
-*   spend time: ~55<sup>+</sup>h
+*   spend time: ~55h
 
 ### Working on own project - Picoballoon2021 web
 * what: webpage for [picoBalloon challenge](https://www.hvezdarna.cz/novinky/picoballoon-challenge-2021/)
@@ -82,4 +82,4 @@ All sources are free, if not said otherwise.
 * link: [github repository](https://github.com/NelliaS/Picoballoon2021)
 * spend time: ~6<sup>+</sup>h (ongoing) _(last update 12.05.21)_
 
-<div>Total time spent: 340<sup>+</sup>h</div>
+<div>Total time spent: ~330<sup>+</sup>h</div>
