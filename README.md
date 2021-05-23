@@ -31,7 +31,7 @@ All sources are free, if not said otherwise.
 *   what: Programming puzzles released on December
 *   when I studied: December 2020, April 2021
 *   web: [adventofcode.com](https://adventofcode.com/)
-*   number of completed days: 15 days from 2020 puzzles, 4 days from 2015 puzzles, estimated time spent: 30<sup>+</sup>h _(last update 06.05.21)_
+*   number of completed days: 15 days from 2020 puzzles, 6 days from 2015 puzzles, estimated time spent: 45<sup>+</sup>h _(last update 23.05.21)_
 
 ### Advanced Python PyLadies Ostrava
 
@@ -55,7 +55,7 @@ All sources are free, if not said otherwise.
 *   when I studied: April - May 2021
 *   materials: [naucse.python.cz](https://naucse.python.cz/2020/linux-admin/),
 *   youtube videos: [channel encukou](https://www.youtube.com/watch?v=8Lqq5J52lic&list=PLFt-PM7J_H3HNjtAXCCeQPyRioItF1egJ&index=1&ab_channel=encukou)
-*   needed time: youtube videos - 21h, making thorough notes ~3h<sup>+</sup>h
+*   needed time: youtube videos - 24h, making thorough notes ~3h<sup>+</sup>h
 
 ### Fundamentals of Red Hat Enterprise Linux
 
@@ -76,10 +76,21 @@ All sources are free, if not said otherwise.
 *   link to homework page: [projekty.pyladies.cz](https://projekty.pyladies.cz/)
 *   spend time: ~55h
 
+### Learning more about Gitlab, Ansible, Docker, Kubernetes
+
+*   what: preparation for an interview
+*   when: May 2021
+*   links Gitlab: [gitlab begginers guide](https://embeddedinventor.com/gitlab-a-complete-beginners-guide/), [create your own pipeline](https://www.youtube.com/watch?v=Jav4vbUrqII&ab_channel=ValentinDespa) (youtube video)
+*   links Ansible: [video NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs&ab_channel=NetworkChuck) + last lecture of Linux administration PyLadies Brno (see above)
+*   links Docker: [docker begginers guide](https://docker-curriculum.com/) /up to Dockerfile chapter/, [video NetworkChuck](https://www.youtube.com/watch?v=eGz9DS-aIeY&ab_channel=NetworkChuck) + last lecture of Linux administration PyLadies Brno (see above)
+*   links Kubernetes: [video NetworkChuck](https://www.youtube.com/watch?v=7bA0gTroJjw&ab_channel=NetworkChuck)
+*   spend time: ~6h
+
 ### Working on own project - Picoballoon2021 web
+
 * what: webpage for [picoBalloon challenge](https://www.hvezdarna.cz/novinky/picoballoon-challenge-2021/)
 * when: May 2021
 * link: [github repository](https://github.com/NelliaS/Picoballoon2021)
-* spend time: ~6<sup>+</sup>h (ongoing) _(last update 12.05.21)_
+* spend time: ~11<sup>+</sup>h (ongoing) _(last update 23.05.21)_
 
-<div>Total time spent: ~330<sup>+</sup>h</div>
+<div>Total time spent: ~358<sup>+</sup>h</div>
