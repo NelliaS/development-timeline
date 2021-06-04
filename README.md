@@ -31,7 +31,7 @@ All sources are free, if not said otherwise.
 *   what: Programming puzzles released on December
 *   when I studied: December 2020, April 2021
 *   web: [adventofcode.com](https://adventofcode.com/)
-*   number of completed days: 15 days from 2020 puzzles, 6 days from 2015 puzzles, estimated time spent: 45<sup>+</sup>h _(last update 23.05.21)_
+*   number of completed days: 15 days from 2020 puzzles, 7 days from 2015 puzzles, estimated time spent: 47<sup>+</sup>h _(last update 04.06.21)_
 
 ### Advanced Python PyLadies Ostrava
 
@@ -91,6 +91,6 @@ All sources are free, if not said otherwise.
 * what: webpage for [picoBalloon challenge](https://www.hvezdarna.cz/novinky/picoballoon-challenge-2021/)
 * when: May 2021
 * link: [github repository](https://github.com/NelliaS/Picoballoon2021)
-* spend time: ~11<sup>+</sup>h (ongoing) _(last update 23.05.21)_
+* spend time: ~25<sup>+</sup>h (ongoing) _(last update 04.06.21)_
 
 <div>Total time spent: ~358<sup>+</sup>h</div>
