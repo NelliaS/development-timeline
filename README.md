@@ -92,6 +92,6 @@ All sources are free, if not said otherwise.
 * what: webpage for [picoBalloon challenge](https://www.hvezdarna.cz/novinky/picoballoon-challenge-2021/)
 * when: May 2021
 * link: [github repository](https://github.com/NelliaS/Picoballoon2021)
-* spend time: ~25<sup>+</sup>h (ongoing) _(last update 04.06.21)_
+* spend time: ~30<sup>+</sup>h (ongoing) _(last update 10.06.21)_
 
-<div>Total time spent: ~358<sup>+</sup>h</div>
+<div>Total time spent: ~379<sup>+</sup>h</div>
