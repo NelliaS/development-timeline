@@ -90,8 +90,13 @@ All sources are free, if not said otherwise.
 ### Working on own project - Picoballoon2021 web
 
 * what: webpage for [picoBalloon challenge](https://www.hvezdarna.cz/novinky/picoballoon-challenge-2021/)
-* when: May 2021
+* when: May - June 2021
 * link: [github repository](https://github.com/NelliaS/Picoballoon2021)
-* spend time: ~30<sup>+</sup>h (ongoing) _(last update 10.06.21)_
+* spend time: ~65<sup>+</sup>h
 
-<div>Total time spent: ~379<sup>+</sup>h</div>
+### Reading books
+* Automate the Boring Stuff with Python (by Al Sweigart)
+* How Linux works (by Brian Ward)
+* spend time: ~4h
+
+<div>Total time spent: ~418<sup>+</sup>h</div>
