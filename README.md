@@ -74,6 +74,7 @@ All sources are free, if not said otherwise.
 *   what: checking homeworks of participants, provide hints, corrections, personal code consultation... as a proud part of PyLadies Brno community
 *   when I coached: April - May 2021
 *   link to homework page: [projekty.pyladies.cz](https://projekty.pyladies.cz/)
+*   link to videos: [channel encukou](https://www.youtube.com/watch?v=so10Ud-YlKE&list=PLFt-PM7J_H3GJSvIWwJDaAgJjq9W-oWSF&ab_channel=encukou)
 *   link to team course materials: [naucse.python.cz](https://naucse.python.cz/2021/online-jaro/)
 *   spend time: ~55h
 
