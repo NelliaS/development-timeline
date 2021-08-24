@@ -16,7 +16,7 @@ All sources are free, if not said otherwise.
 *   what: Beginner course in Python from PyLadies community Brno (online), lecturer: Petr Viktorin
 *   when I studied: October 2020 - December 2020 (bonuses: March and April 2021)
 *   materials: [naucse.python.cz](https://naucse.python.cz/2020/brno-podzim-pondeli/),
-*   youtube videos: [channel encukou](https://www.youtube.com/watch?v=WNHeZFkUzrI&t=3555s&ab_channel=encukou) & bonus videos: [Pyglet](https://www.youtube.com/watch?v=WNHeZFkUzrI&t=3555s&ab_channel=encukou) , [GIT 1](https://youtu.be/zOWcQezeyIU) , [GIT 2](https://youtu.be/bQrs8hhnR48) (I also recommend book [Pro Git](https://git-scm.com/book/en/v2)), [Requests](https://youtu.be/92Ktrldt7QY) , [Flask](https://youtu.be/n2V109UmhUQ)
+*   youtube videos: [channel encukou](https://www.youtube.com/watch?v=B8dYRXSiUx4&list=PLFt-PM7J_H3ELiR5V3uQgUspihxvnCVwX&ab_channel=encukou) & bonus videos: [Pyglet](https://www.youtube.com/watch?v=WNHeZFkUzrI&t=3555s&ab_channel=encukou) , [GIT 1](https://youtu.be/zOWcQezeyIU) , [GIT 2](https://youtu.be/bQrs8hhnR48) (I also recommend book [Pro Git](https://git-scm.com/book/en/v2)), [Requests](https://youtu.be/92Ktrldt7QY) , [Flask](https://youtu.be/n2V109UmhUQ)
 *   needed time: youtube videos - 34h, 10 series of homeworks (including 6 bigger games) ~65<sup>+</sup>h, making thorough notes ~20<sup>+</sup>h
 
 ### Codewars - puzzles
