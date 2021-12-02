@@ -1,8 +1,8 @@
 # Timeline of my learning progress
 
 <div>Hello! Welcome! :)
-I made this timeline repository to show you what I had done to get my first programmer job with Python in Red Hat. I wrote down all my sources, from which I've learnt, so you could use this to obtain various useful links to learn (be wary - most sources are in Czech). You can also check from my code to see how was I improving. It took me 7 months (2 months pause) and more than 418 hours to get the job, I stopped tracking after that. You can find my newest code examples in
-[advent_of_code repository](https://github.com/NelliaS/advent_of_code) </div>
+I made this timeline repository to show you what I had done to get my first programmer job with Python in Red Hat. I wrote down all my sources, from which I've learnt, so you could use this to obtain various useful links to learn (be wary - most sources are in Czech). You can also check from my code to see how was I improving. It took me 7 months (2 months pause) and more than 418 hours to get the job, I stopped tracking after that. You can find my newest code examples in https://github.com/NelliaS/advent_of_code
+</div>
 
 ## Files
 
